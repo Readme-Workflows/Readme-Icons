@@ -43,7 +43,7 @@ The default icons are white and have been recolored based on GitHub's colour sch
 All icons used are the 16px variant available, which fit perfectly in normal text.
 
 | Name                     | Preview                       | Description                                               |
-| ------------------------ | ----------------------------- | --------------------------------------------------------- |
+| ------------------------ |:-----------------------------:| --------------------------------------------------------- |
 | `ApprovedChanges.svg`    | ![OcticonsApprovedChanges]    | The Checkmark used for approved Changes in Pull requests. |
 | `Comment.svg`            | ![OcticonsComment]            | Speech bubble representing comments.                      |
 | `IssueClosed.svg`        | ![OcticonsIssueClosed]        | The new icon for closed issues.                           |
