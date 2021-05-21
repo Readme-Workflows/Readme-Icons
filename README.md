@@ -2,12 +2,23 @@
 
 [licenseOcticons]: https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/OCTICONS_LICENSE.txt
 
+[contributing]: https://github.com/Readme-Workflows/Readme-Icons/blob/main/CONTRIBUTING.md
+
 # Readme-Icons
 
 > Currated by [@Andre601][andre601]
 
 Welcome to the Readme-Icons Repository!  
 This Repository aims to provide various SVG icons to use in your Readme, or any other markdown file.
+
+## Table of Contents
+
+- [How to use](#how-to-use)
+- [Licenses](#licenses)
+- [Why use this and not the actual source?](#why-use-this-and-not-the-actual-source)
+- [Icons](#icons)
+  - [Octicons](#octicons)
+- [Submit Icons](#submit-icons)
 
 ## How to use
 This Repository has a `icons` folder containing other folders, which sort the SVG icons into different categories.  
@@ -86,3 +97,8 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 
 [OcticonsComment]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Comment.svg
 [OcticonsRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Repository.svg
+
+## Submit Icons
+
+Do you want to add some icons to this Repository?  
+If yes, make sure to follow the basic guidelines in our [Contributing file][contributing].
