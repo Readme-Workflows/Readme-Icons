@@ -47,8 +47,10 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 | `ApprovedChanges.svg`    | ![OcticonsApprovedChanges]    | The Checkmark used for approved Changes in Pull requests. |
 | `Comment.svg`            | ![OcticonsComment]            | Speech bubble representing comments.                      |
 | `IssueClosed.svg`        | ![OcticonsIssueClosed]        | The new icon for closed issues.                           |
+| `IssueClosedOld.svg`     | ![OcticonsIssueClosedOld]     | The old (current) icon for closed issues.                 |
 | `IssueDrafted.svg`       | ![OcticonsIssueDrafted]       | The new icon for drafted issues.                          |
 | `IssueOpened.svg`        | ![OcticonsIssueOpened]        | The new icon for opened issues.                           |
+| `IssueOpenedOld.svg`     | ![OcticonsIssueOpenedOld]     | The old (current) icon for opened issues.                 |
 | `IssueReopened.svg`      | ![OcticonsIssueReopened]      | The new icon for reopened issues.                         |
 | `PullRequestClosed.svg`  | ![OcticonsPullRequestClosed]  | The new icon for closed Pull requests.                    |
 | `PullRequestDrafted.svg` | ![OcticonsPullRequestDrafted] | The new icon for drafted Pull requests.                   |
@@ -61,8 +63,10 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 [OcticonsComment]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Comment.svg
 
 [OcticonsIssueClosed]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/IssueClosed.svg
+[OcticonsIssueClosedOld]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/IssueClosedOld.svg
 [OcticonsIssueDrafted]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/IssueDrafted.svg
 [OcticonsIssueOpened]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/IssueOpened.svg
+[OcticonsIssueOpenedOld]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/IssueOpenedOld.svg
 [OcticonsIssueReopened]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/IssueReopened.svg
 
 [OcticonsPullRequestClosed]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/PullRequestClosed.svg
