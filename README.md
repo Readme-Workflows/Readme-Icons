@@ -59,14 +59,14 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 
 #### Issues
 
-| Name                 | Preview                   | Description                               |
-| -------------------- |:-------------------------:| ----------------------------------------- |
-| `IssueClosed.svg`    | ![OcticonsIssueClosed]    | The new icon for closed issues.           |
-| `IssueClosedOld.svg` | ![OcticonsIssueClosedOld] | The old (current) icon for closed issues. |
-| `IssueDrafted.svg`   | ![OcticonsIssueDrafted]   | The new icon for drafted issues.          |
-| `IssueOpened.svg`    | ![OcticonsIssueOpened]    | The new icon for opened issues.           |
-| `IssueOpenedOld.svg` | ![OcticonsIssueOpenedOld] | The old (current) icon for opened issues. |
-| `IssueReopened.svg`  | ![OcticonsIssueReopened]  | The new icon for reopened issues.         |
+| Name                 | Preview                   | Notes                                            |
+| -------------------- |:-------------------------:| ------------------------------------------------ |
+| `IssueClosed.svg`    | ![OcticonsIssueClosed]    | The new icon for closed issues (Not used yet).   |
+| `IssueClosedOld.svg` | ![OcticonsIssueClosedOld] | The old (current) icon for closed issues.        |
+| `IssueDrafted.svg`   | ![OcticonsIssueDrafted]   | The new icon for drafted issues (Not used yet).  |
+| `IssueOpened.svg`    | ![OcticonsIssueOpened]    | The new icon for opened issues (Not used yet).   |
+| `IssueOpenedOld.svg` | ![OcticonsIssueOpenedOld] | The old (current) icon for opened issues.        |
+| `IssueReopened.svg`  | ![OcticonsIssueReopened]  | The new icon for reopened issues (Not used yet). |
 
 [OcticonsIssueClosed]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/IssueClosed.svg
 [OcticonsIssueClosedOld]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/IssueClosedOld.svg
@@ -77,14 +77,14 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 
 #### Pull requests
 
-| Name                     | Preview                       | Description                                               |
+| Name                     | Preview                       | Notes                                                     |
 | ------------------------ |:-----------------------------:| --------------------------------------------------------- |
-| `ApprovedChanges.svg`    | ![OcticonsApprovedChanges]    | The Checkmark used for approved Changes in Pull requests. |
-| `PullRequestClosed.svg`  | ![OcticonsPullRequestClosed]  | The new icon for closed Pull requests.                    |
-| `PullRequestDrafted.svg` | ![OcticonsPullRequestDrafted] | The new icon for drafted Pull requests.                   |
-| `PullRequestMerged.svg`  | ![OcticonsPullRequestMerged]  | The icon used for merged Pull requests.                   |
-| `PullRequestOpened.svg`  | ![OcticonsPullRequestOpened]  | The icon used for opened Pull requests.                   |
-| `RequestedChanges.svg`   | ![OcticonsRequestedChanges]   | Icon used for when requesting changes in Pull requests.   |
+| `ApprovedChanges.svg`    | ![OcticonsApprovedChanges]    |                                                           |
+| `PullRequestClosed.svg`  | ![OcticonsPullRequestClosed]  | The new icon for closed Pull requests (Not used yet).     |
+| `PullRequestDrafted.svg` | ![OcticonsPullRequestDrafted] | The new icon for drafted Pull requests (Not used yet).    |
+| `PullRequestMerged.svg`  | ![OcticonsPullRequestMerged]  |                                                           |
+| `PullRequestOpened.svg`  | ![OcticonsPullRequestOpened]  |                                                           |
+| `RequestedChanges.svg`   | ![OcticonsRequestedChanges]   |                                                           |
 
 [OcticonsApprovedChanges]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/ApprovedChanges.svg
 [OcticonsPullRequestClosed]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/PullRequestClosed.svg
@@ -94,13 +94,19 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 [OcticonsRequestedChanges]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/RequestedChanges.svg
 
 #### Miscelanious
-| Name                     | Preview                       | Description                                               |
-| ------------------------ |:-----------------------------:| --------------------------------------------------------- |
-| `Comment.svg`            | ![OcticonsComment]            | Speech bubble representing comments.                      |
-| `Repository.svg`         | ![OcticonsRepository]         | The Repository Icon.                                      |
+| Name                    | Preview                      | Notes |
+| ----------------------- |:----------------------------:| ----- |
+| `Comment.svg`           | ![OcticonsComment]           |       |
+| `ForkedRepository.svg`  | ![OcticonsForkedRepository]  |       |
+| `Repository.svg`        | ![OcticonsRepository]        |       |
+| `UnwatchRepository.svg` | ![OcticonsUnwatchRepository] |       |
+| `WatchRepository.svg`   | ![OcticonsWatchRepository]   |       |
 
 [OcticonsComment]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Comment.svg
+[OcticonsForkedRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/ForkedRepository.svg
 [OcticonsRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Repository.svg
+[OcticonsUnwatchRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/UnwatchRepository.svg
+[OcticonsWatchRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/WatchRepository.svg
 
 ## Submit Icons
 
