@@ -1,15 +1,11 @@
 [andre601]: https://github.com/Andre601
-
-[licenseOcticons]: https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/OCTICONS_LICENSE.txt
-
 [contributing]: https://github.com/Readme-Workflows/Readme-Icons/blob/main/CONTRIBUTING.md
 
+[LicenseOcticons]: https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/OCTICONS_LICENSE.txt
+[LicenseTwemoji]: https://github.com/twitter/twemoji/blob/master/LICENSE
+
+
 # Readme-Icons
-
-[![GitHub stars](https://img.shields.io/github/stars/Readme-Workflows/Readme-Icons)](https://github.com/Readme-Workflows/Readme-Icons/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Readme-Workflows/Readme-Icons)](https://github.com/Readme-Workflows/Readme-Icons/network)
-[![GitHub issues](https://img.shields.io/github/issues/Readme-Workflows/Readme-Icons)](https://github.com/Readme-Workflows/Readme-Icons/issues)
-
 > Currated by [@Andre601][andre601]
 
 Welcome to the Readme-Icons Repository!  
@@ -51,7 +47,7 @@ You can right-click a SVG name (In the `Name` collumn) and select "Copy link" to
 
 ### Octicons
 > **Source:** https://octicons-primer.vercel.app/octicons/  
-> **License:** [MIT][licenseOcticons]
+> **License:** [MIT][LicenseOcticons]
 >
 > **Base-URL:** https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/
 
@@ -111,13 +107,22 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 [OcticonsUnwatchRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/UnwatchRepository.svg
 [OcticonsWatchRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/WatchRepository.svg
 
-### Wave gif
-> **Source:** https://github.com/MartinHeinz/MartinHeinz/
-> **License:** No license
+### Gifs
+> **Sources:**
+> 
+> - Wave.gif: https://github.com/MartinHeinz/MartinHeinz/
 >
-> **Base-URL:** https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/wave/
+> **License:** *Unknown* (Probably [MIT][LicenseTwemoji] from Twemoji.)
+>
+> **Base-URL:** https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/gifs/
 
-Just a gif for waving your hands in your readme.
+Simple 16x16 pixel gifs you can use for some animation in your Readme.
+
+| Name                   | Preview     | Notes |
+| ---------------------- |:-----------:| ----- |
+| [`Wave.gif`][GifsWave] | ![GifsWave] |       |
+
+[GifsWave]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/gifs/Wave.gif
 
 ## Submit Icons
 
