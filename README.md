@@ -114,7 +114,7 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 >
 > **License:** *Unknown* (Probably [MIT][LicenseTwemoji] from Twemoji.)
 >
-> **Base-URL:** https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/gifs/
+> **Base-URL:** https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/gifs
 
 Simple 16x16 pixel gifs you can use for some animation in your Readme.
 
@@ -122,7 +122,7 @@ Simple 16x16 pixel gifs you can use for some animation in your Readme.
 | ---------------------- |:-----------:| ----- |
 | [`Wave.gif`][GifsWave] | ![GifsWave] |       |
 
-[GifsWave]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/gifs/Wave.gif
+[GifsWave]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/gifs/wave.gif
 
 ## Submit Icons
 
