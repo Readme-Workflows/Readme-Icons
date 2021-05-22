@@ -111,6 +111,14 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 [OcticonsUnwatchRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/UnwatchRepository.svg
 [OcticonsWatchRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/WatchRepository.svg
 
+### Wave gif
+> **Source:** https://github.com/MartinHeinz/MartinHeinz/
+> **License:** No license
+>
+> **Base-URL:** https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/wave/
+
+Just a gif for waving your hands in your readme.
+
 ## Submit Icons
 
 Do you want to add some icons to this Repository?  
