@@ -46,7 +46,7 @@ The source and respective license(s) will be linked.
 
 ### Octicons
 
-PLease see the [readme file in octicons](https://github.com/Readme-Workflows/Readme-Icons/tree/fix/readme/icons/octicons#readme) directory.
+PLease see the [readme file in octicons](https://github.com/Readme-Workflows/Readme-Icons/tree/main/icons/octicons#readme) directory.
 
 ## Submit Icons
 
