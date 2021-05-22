@@ -46,7 +46,9 @@ The source and respective license(s) will be linked.
 You can right-click a SVG name (In the `Name` collumn) and select "Copy link" to copy the link to the SVG icon.
 
 ### Octicons
-> **Source:** https://octicons-primer.vercel.app/octicons/  
+> **Sources:**
+> - https://octicons-primer.vercel.app/octicons/  
+> 
 > **License:** [MIT][LicenseOcticons]
 >
 > **Base-URL:** https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/
@@ -113,12 +115,11 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 
 ### Gifs
 > **Sources:**
-> 
 > - Wave.gif: https://github.com/MartinHeinz/MartinHeinz/
 >
 > **License:** *Unknown* (Probably [MIT][LicenseTwemoji] from Twemoji.)
 >
-> **Base-URL:** https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/gifs
+> **Base-URL:** https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/gifs/
 
 Simple 16x16 pixel gifs you can use for some animation in your Readme.
 
