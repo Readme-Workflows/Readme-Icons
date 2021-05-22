@@ -102,6 +102,10 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 [OcticonsComment]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Comment.svg
 [OcticonsRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Repository.svg
 
+### Wave gif
+
+PLease see the [readme file in wave](https://github.com/Readme-Workflows/Readme-Icons/tree/main/icons/wave#readme) directory.
+
 ## Submit Icons
 
 Do you want to add some icons to this Repository?  
