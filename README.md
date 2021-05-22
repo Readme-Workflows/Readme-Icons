@@ -6,6 +6,10 @@
 
 # Readme-Icons
 
+[![GitHub stars](https://img.shields.io/github/stars/Readme-Workflows/Readme-Icons)](https://github.com/Readme-Workflows/Readme-Icons/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Readme-Workflows/Readme-Icons)](https://github.com/Readme-Workflows/Readme-Icons/network)
+[![GitHub issues](https://img.shields.io/github/issues/Readme-Workflows/Readme-Icons)](https://github.com/Readme-Workflows/Readme-Icons/issues)
+
 > Currated by [@Andre601][andre601]
 
 Welcome to the Readme-Icons Repository!  
