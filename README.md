@@ -103,8 +103,12 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 [OcticonsRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Repository.svg
 
 ### Wave gif
+> **Source:** https://github.com/MartinHeinz/MartinHeinz/
+> **License:** No license
+>
+> **Base-URL:** https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/wave/
 
-PLease see the [readme file in wave](https://github.com/Readme-Workflows/Readme-Icons/tree/main/icons/wave#readme) directory.
+Just a gif for waving your hands in your readme.
 
 ## Submit Icons
 
