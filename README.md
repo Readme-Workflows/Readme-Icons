@@ -97,13 +97,17 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 | ---------------------------------------------------- |:----------------------------:| ----- |
 | [`Comment.svg`][OcticonsComment]                     | ![OcticonsComment]           |       |
 | [`ForkedRepository.svg`][OcticonsForkedRepository]   | ![OcticonsForkedRepository]  |       |
+| [`Release.svg`][OcticonsRelease]                     | ![OcticonsRelease]           |       |
 | [`Repository.svg`][OcticonsRepository]               | ![OcticonsRepository]        |       |
+| [`StarredRepository.svg`][OcticonsStarredRepository] | ![OcticonsStarredRepository] |       |
 | [`UnwatchRepository.svg`][OcticonsUnwatchRepository] | ![OcticonsUnwatchRepository] |       |
 | [`WatchRepository.svg`][OcticonsWatchRepository]     | ![OcticonsWatchRepository]   |       |
 
 [OcticonsComment]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Comment.svg
 [OcticonsForkedRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/ForkedRepository.svg
+[OcticonsRelease]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Release.svg
 [OcticonsRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Repository.svg
+[OcticonsStarredRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/StarredRepository.svg
 [OcticonsUnwatchRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/UnwatchRepository.svg
 [OcticonsWatchRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/WatchRepository.svg
 
