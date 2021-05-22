@@ -62,10 +62,10 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 | Name                 | Preview                   | Notes                                            |
 | -------------------- |:-------------------------:| ------------------------------------------------ |
 | `IssueClosed.svg`    | ![OcticonsIssueClosed]    | The new icon for closed issues (Not used yet).   |
-| `IssueClosedOld.svg` | ![OcticonsIssueClosedOld] | The old (current) icon for closed issues.        |
+| `IssueClosedOld.svg` | ![OcticonsIssueClosedOld] |                                                  |
 | `IssueDrafted.svg`   | ![OcticonsIssueDrafted]   | The new icon for drafted issues (Not used yet).  |
 | `IssueOpened.svg`    | ![OcticonsIssueOpened]    | The new icon for opened issues (Not used yet).   |
-| `IssueOpenedOld.svg` | ![OcticonsIssueOpenedOld] | The old (current) icon for opened issues.        |
+| `IssueOpenedOld.svg` | ![OcticonsIssueOpenedOld] |                                                  |
 | `IssueReopened.svg`  | ![OcticonsIssueReopened]  | The new icon for reopened issues (Not used yet). |
 
 [OcticonsIssueClosed]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/IssueClosed.svg
