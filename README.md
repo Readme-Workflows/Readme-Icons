@@ -14,13 +14,19 @@ This Repository aims to provide various SVG icons to use in your Readme, or any 
 
 ## Table of Contents
 
-- [How to use](#how-to-use)
-  - [Specific versions](#specific-versions)
-- [Licenses](#licenses)
-- [Why use this and not the actual source?](#why-use-this-and-not-the-actual-source)
-- [Icons](#icons)
-  - [Octicons](#octicons)
-- [Submit Icons](#submit-icons)
+- [Readme-Icons](#readme-icons)
+  - [Table of Contents](#table-of-contents)
+  - [How to use](#how-to-use)
+    - [Specific versions](#specific-versions)
+  - [Licenses](#licenses)
+  - [Why use this and not the actual source?](#why-use-this-and-not-the-actual-source)
+  - [Icons](#icons)
+    - [Octicons](#octicons)
+      - [Issues](#issues)
+      - [Pull requests](#pull-requests)
+      - [Miscelanious](#miscelanious)
+    - [Gifs](#gifs)
+  - [Submit Icons](#submit-icons)
 
 ## How to use
 We keep all our icons/images in a `icon` directory, where they are further split up into categories.
@@ -124,6 +130,7 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 | [`UnwatchRepository.svg`][OcticonsUnwatchRepository] | ![OcticonsUnwatchRepository] |       |
 | [`WatchRepository.svg`][OcticonsWatchRepository]     | ![OcticonsWatchRepository]   |       |
 | [`Wiki.svg`][OcticonsWiki]                           | ![OcticonsWiki]              |       |
+| [`People.svg`][OcticonsPeople]                       | ![OcticonsPeople]              |       |
 
 [OcticonsComment]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg
 [OcticonsForkedRepository]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg
@@ -133,6 +140,7 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 [OcticonsUnwatchRepository]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/UnwatchRepository.svg
 [OcticonsWatchRepository]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/WatchRepository.svg
 [OcticonsWiki]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg
+[OcticonsPeople]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg
 
 ### Gifs
 > **Sources:**
