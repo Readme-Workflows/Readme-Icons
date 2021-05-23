@@ -28,6 +28,13 @@ Simply use https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/
 
 This link can then be used through Markdown's image-link format (`![text](:link)`) or through the reference link-syntax (`[text]: :link`) to then use in multiple places with `![text]`
 
+### Specific versions
+Thanks to releases can you also use specific versions for your icons.  
+This is useful if your icon got changed or even removed but you still want to use it.
+
+To use specific versions, replace `main` in `Readme-Icons@main` with the version you would like to use (i.e. `Readme-Icons@v1.0.0`).  
+Keep in mind that there needs to be a valid Release on this Repository for this to work!
+
 ## Licenses
 
 Please note that the different icons may have different licenses. Each folder in the `icons` directory is equipped with a copy of the respective license(s) used.
