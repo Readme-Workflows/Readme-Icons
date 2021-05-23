@@ -52,7 +52,9 @@ There are multiple reasons to use this over the existing sources:
    Thanks to this Repository will you only have a single source you need to use compared to other places. This reduces the need of maintainability a lot as you don't have to worry about the source suddenly changing or even being gone.  
 3. **Safe**  
    Using this Repository over the source is much more save, as we won't remove existing SVG icons without any prior notice.  
-   If we do plan to remove an icon will we inform you about this through our Pull Request or on our [Discord Server][discord].
+   Each Icon change or removal is done through Pull request and mentioned in any possible release on this Repository.
+
+If you have any further questions or just want to get in touch with us, join our [Discord Server][discord].
 
 ## Icons
 
