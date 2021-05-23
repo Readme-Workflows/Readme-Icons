@@ -1,4 +1,5 @@
 [andre601]: https://github.com/Andre601
+[discord]: https://discord.gg/2a9VC4AK6x
 [contributing]: https://github.com/Readme-Workflows/Readme-Icons/blob/main/CONTRIBUTING.md
 
 [LicenseOcticons]: https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/OCTICONS_LICENSE.txt
