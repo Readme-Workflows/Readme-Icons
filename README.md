@@ -14,6 +14,7 @@ This Repository aims to provide various SVG icons to use in your Readme, or any 
 ## Table of Contents
 
 - [How to use](#how-to-use)
+  - [Specific versions](#specific-versions)
 - [Licenses](#licenses)
 - [Why use this and not the actual source?](#why-use-this-and-not-the-actual-source)
 - [Icons](#icons)
