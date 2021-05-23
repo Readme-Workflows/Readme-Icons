@@ -140,7 +140,7 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 >
 > **License:** *Unknown* (Probably [MIT][LicenseTwemoji] from Twemoji.)
 >
-> **Base-URL:** https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/wave
+> **Base-URL:** https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/wave/
 
 Simple 16x16 pixel gifs you can use for some animation in your Readme.
 
