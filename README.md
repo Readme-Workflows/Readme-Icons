@@ -124,7 +124,7 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 | [`UnwatchRepository.svg`][OcticonsUnwatchRepository] | ![OcticonsUnwatchRepository] |       |
 | [`WatchRepository.svg`][OcticonsWatchRepository]     | ![OcticonsWatchRepository]   |       |
 | [`Wiki.svg`][OcticonsWiki]                           | ![OcticonsWiki]              |       |
-| [`People.svg`][OcticonsPeople]                           | ![OcticonsPeople]              |       |
+| [`People.svg`][OcticonsPeople]                       | ![OcticonsPeople]            |       |
 
 [OcticonsComment]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg
 [OcticonsForkedRepository]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg
