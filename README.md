@@ -14,19 +14,13 @@ This Repository aims to provide various SVG icons to use in your Readme, or any 
 
 ## Table of Contents
 
-- [Readme-Icons](#readme-icons)
-  - [Table of Contents](#table-of-contents)
-  - [How to use](#how-to-use)
-    - [Specific versions](#specific-versions)
-  - [Licenses](#licenses)
-  - [Why use this and not the actual source?](#why-use-this-and-not-the-actual-source)
-  - [Icons](#icons)
-    - [Octicons](#octicons)
-      - [Issues](#issues)
-      - [Pull requests](#pull-requests)
-      - [Miscelanious](#miscelanious)
-    - [Gifs](#gifs)
-  - [Submit Icons](#submit-icons)
+- [How to use](#how-to-use)
+  - [Specific versions](#specific-versions)
+- [Licenses](#licenses)
+- [Why use this and not the actual source?](#why-use-this-and-not-the-actual-source)
+- [Icons](#icons)
+  - [Octicons](#octicons)
+- [Submit Icons](#submit-icons)
 
 ## How to use
 We keep all our icons/images in a `icon` directory, where they are further split up into categories.
