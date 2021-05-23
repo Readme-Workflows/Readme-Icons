@@ -21,10 +21,12 @@ This Repository aims to provide various SVG icons to use in your Readme, or any 
 - [Submit Icons](#submit-icons)
 
 ## How to use
-This Repository has a `icons` folder containing other folders, which sort the SVG icons into different categories.  
-To use a SVG icon, simply use https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/ followed by the folder, icon name and `.svg` extension.
+We keep all our icons/images in a `icon` directory, where they are further split up into categories.
 
-The link would be used like any other image through the Image Markdown format (`![text](link)`).
+The easiest way to use the icons is to use JSDelivr for it.  
+Simply use https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/ followed by the name of the foloder (Category), the name of the icon and the file-extension of it.
+
+This link can then be used through Markdown's image-link format (`![text](:link)`) or through the reference link-syntax (`[text]: :link`) to then use in multiple places with `![text]`
 
 ## Licenses
 
@@ -32,10 +34,16 @@ Please note that the different icons may have different licenses. Each folder in
 
 ## Why use this and not the actual source?
 
-There are many reasons why you should use this repository and not the source of the SVG directly.  
-The first one being that the SVG icons here may be colored compared to their often white/black counter parts available in source, which may not look good everywhere and often cannot be recoloured that easy.  
-Additionally is it easier to have a single source compared to multiple ones.  
-And finally, can you use versions from a specific point in time, thanks to GitHub keeping instances of images saved under specific commit hashes.
+There are multiple reasons to use this over the existing sources:
+
+1. **Recoloured SVGs**  
+   There is no easy way to recolour existing SVG icons without manipulating their `<svg>` or `<path>` tags, especially with markdown-syntaxes.  
+   Here, the icons have receieved new colours where needed to represent their common use place. This allows you to have coloured SVG icons without much work.
+2. **Single Source**
+   Thanks to this Repository will you only have a single source you need to use compared to other places. This reduces the need of maintainability a lot as you don't have to worry about the source suddenly changing or even being gone.  
+3. **Safe**  
+   Using this Repository over the source is much more save, as we won't remove existing SVG icons without any prior notice.  
+   If we do plan to remove an icon will we inform you about this through our Pull Request or on our [Discord Server][discord].
 
 ## Icons
 
