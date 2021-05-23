@@ -118,6 +118,7 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 | ---------------------------------------------------- |:----------------------------:| ----- |
 | [`Comment.svg`][OcticonsComment]                     | ![OcticonsComment]           |       |
 | [`ForkedRepository.svg`][OcticonsForkedRepository]   | ![OcticonsForkedRepository]  |       |
+| [`People.svg`][OcticonsPeople]                       | ![OcticonsPeople]            |       |
 | [`Release.svg`][OcticonsRelease]                     | ![OcticonsRelease]           |       |
 | [`Repository.svg`][OcticonsRepository]               | ![OcticonsRepository]        |       |
 | [`StarredRepository.svg`][OcticonsStarredRepository] | ![OcticonsStarredRepository] |       |
@@ -133,6 +134,7 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 [OcticonsUnwatchRepository]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/UnwatchRepository.svg
 [OcticonsWatchRepository]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/WatchRepository.svg
 [OcticonsWiki]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg
+[OcticonsPeople]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg
 
 ### Gifs
 > **Sources:**
