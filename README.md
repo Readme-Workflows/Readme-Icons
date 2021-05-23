@@ -77,12 +77,12 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 | [`IssueOpenedOld.svg`][OcticonsIssueOpenedOld] | ![OcticonsIssueOpenedOld] |                                                  |
 | [`IssueReopened.svg`][OcticonsIssueReopened]   | ![OcticonsIssueReopened]  | The new icon for reopened issues (Not used yet). |
 
-[OcticonsIssueClosed]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/IssueClosed.svg
-[OcticonsIssueClosedOld]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/IssueClosedOld.svg
-[OcticonsIssueDrafted]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/IssueDrafted.svg
-[OcticonsIssueOpened]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/IssueOpened.svg
-[OcticonsIssueOpenedOld]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/IssueOpenedOld.svg
-[OcticonsIssueReopened]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/IssueReopened.svg
+[OcticonsIssueClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg
+[OcticonsIssueClosedOld]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosedOld.svg
+[OcticonsIssueDrafted]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueDrafted.svg
+[OcticonsIssueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg
+[OcticonsIssueOpenedOld]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg
+[OcticonsIssueReopened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueReopened.svg
 
 #### Pull requests
 
@@ -95,12 +95,12 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 | [`PullRequestOpened.svg`][OcticonsPullRequestOpened]   | ![OcticonsPullRequestOpened]  |                                                           |
 | [`RequestedChanges.svg`][OcticonsRequestedChanges]     | ![OcticonsRequestedChanges]   |                                                           |
 
-[OcticonsApprovedChanges]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/ApprovedChanges.svg
-[OcticonsPullRequestClosed]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/PullRequestClosed.svg
-[OcticonsPullRequestDrafted]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/PullRequestDrafted.svg
-[OcticonsPullRequestMerged]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/PullRequestMerged.svg
-[OcticonsPullRequestOpened]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/PullRequestOpened.svg
-[OcticonsRequestedChanges]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/RequestedChanges.svg
+[OcticonsApprovedChanges]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg
+[OcticonsPullRequestClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg
+[OcticonsPullRequestDrafted]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestDrafted.svg
+[OcticonsPullRequestMerged]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg
+[OcticonsPullRequestOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg
+[OcticonsRequestedChanges]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg
 
 #### Miscelanious
 | Name                                                 | Preview                      | Notes |
@@ -112,14 +112,16 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 | [`StarredRepository.svg`][OcticonsStarredRepository] | ![OcticonsStarredRepository] |       |
 | [`UnwatchRepository.svg`][OcticonsUnwatchRepository] | ![OcticonsUnwatchRepository] |       |
 | [`WatchRepository.svg`][OcticonsWatchRepository]     | ![OcticonsWatchRepository]   |       |
+| [`Wiki.svg`][OcticonsWiki]                           | ![OcticonsWiki]              |       |
 
-[OcticonsComment]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Comment.svg
-[OcticonsForkedRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/ForkedRepository.svg
-[OcticonsRelease]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Release.svg
-[OcticonsRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Repository.svg
-[OcticonsStarredRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/StarredRepository.svg
-[OcticonsUnwatchRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/UnwatchRepository.svg
-[OcticonsWatchRepository]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/WatchRepository.svg
+[OcticonsComment]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg
+[OcticonsForkedRepository]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg
+[OcticonsRelease]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg
+[OcticonsRepository]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg
+[OcticonsStarredRepository]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg
+[OcticonsUnwatchRepository]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/UnwatchRepository.svg
+[OcticonsWatchRepository]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/WatchRepository.svg
+[OcticonsWiki]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg
 
 ### Gifs
 > **Sources:**
@@ -135,7 +137,7 @@ Simple 16x16 pixel gifs you can use for some animation in your Readme.
 | ---------------------- |:-----------:| ----- |
 | [`Wave.gif`][GifsWave] | ![GifsWave] |       |
 
-[GifsWave]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/gifs/wave.gif
+[GifsWave]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif
 
 ## Submit Icons
 
