@@ -18,7 +18,7 @@ categories:
     labels:
       - "Type: Removed Icon"
 
-change-template: "- #$NUMBER: $TITLE by `$AUTHOR`"
+change-template: "- [#$NUMBER]: **$TITLE** by `$AUTHOR`"
 version-resolver:
   major:
     labels:
