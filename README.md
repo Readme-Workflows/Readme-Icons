@@ -51,7 +51,7 @@ You can right-click a SVG name (In the `Name` collumn) and select "Copy link" to
 > 
 > **License:** [MIT][LicenseOcticons]
 >
-> **Base-URL:** https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/
+> **Base-URL:** https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/
 
 Octicons are GitHubs own SVG icons used across their website but also in various software.  
 The default icons are white and have been recolored based on GitHub's colour scheme used.
@@ -119,7 +119,7 @@ All icons used are the 16px variant available, which fit perfectly in normal tex
 >
 > **License:** *Unknown* (Probably [MIT][LicenseTwemoji] from Twemoji.)
 >
-> **Base-URL:** https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/gifs/
+> **Base-URL:** https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/wave
 
 Simple 16x16 pixel gifs you can use for some animation in your Readme.
 
