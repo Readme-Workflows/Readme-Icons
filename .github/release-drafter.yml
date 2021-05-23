@@ -1,0 +1,36 @@
+name-template: "Icons Update v$RESOLVED_VERSION"
+tag-template: "v$RESOLVED_VERSION"
+commitish: main
+publish: false
+exclude-labels:
+  - "Target: GitHub Action"
+  - "Action: No Changelog"
+
+category-template: "### $TITLE"
+categories:
+  - title: "➕ New Icons"
+    labels:
+      - "Type: New Icon"
+  - title: "✏️ Changed Icons"
+    labels:
+      - "Type: Changed Icon"
+  - title: "➖ Removed Icons"
+    labels:
+      - "Type: Removed Icon"
+
+change-template: "- #$NUMBER: $TITLE by `$AUTHOR`"
+version-resolver:
+  major:
+    labels:
+      - "Version: Major"
+  minor:
+    labels:
+      - "Version: Minor"
+  patch:
+    labels:
+      - "Version: Patch"
+  default: patch
+
+template: |
+  ## Icons Update
+  $CHANGES
