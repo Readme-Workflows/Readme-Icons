@@ -1,3 +1,5 @@
+[LicenseOcticons]: https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/OCTICONS_LICENSE.txt
+
 # Octicons
 > **Sources:**
 > - https://octicons-primer.vercel.app/octicons/  

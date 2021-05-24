@@ -2,9 +2,6 @@
 [discord]: https://discord.gg/2a9VC4AK6x
 [contributing]: https://github.com/Readme-Workflows/Readme-Icons/blob/main/CONTRIBUTING.md
 
-[LicenseOcticons]: https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/OCTICONS_LICENSE.txt
-[LicenseTwemoji]: https://github.com/twitter/twemoji/blob/master/LICENSE
-
 
 # Readme-Icons
 > Currated by [@Andre601][andre601]
