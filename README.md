@@ -6,6 +6,8 @@
 # Readme-Icons
 > Currated by [@Andre601][andre601]
 
+[![CDN hits](https://data.jsdelivr.com/v1/package/gh/Readme-Workflows/Readme-Icons/badge)](https://www.jsdelivr.com/package/gh/Readme-Workflows/Readme-Icons)
+
 Welcome to the Readme-Icons Repository!  
 This Repository aims to provide various SVG icons to use in your Readme, or any other markdown file.
 
