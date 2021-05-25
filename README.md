@@ -26,7 +26,7 @@ This Repository aims to provide various SVG icons to use in your Readme, or any 
 We keep all our icons/images in a `icon` directory, where they are further split up into categories.
 
 The easiest way to use the icons is to use JSDelivr for it.  
-Simply use https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/ followed by the name of the foloder (Category), the name of the icon and the file-extension of it.
+Simply visit https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/ open the respective folder, click on the name of the Icon you want to use and copy your current URL from your browser.
 
 This link can then be used through Markdown's image-link format (`![text](:link)`) or through the reference link-syntax (`[text]: :link`) to then use in multiple places with `![text]`
 
