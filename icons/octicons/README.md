@@ -50,7 +50,7 @@ Icons related to Pull requests
 [OcticonsPullRequestOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg
 [OcticonsRequestedChanges]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg
 
-## Miscelanious
+## Miscellaneous
 Icons not matching any other category
 
 | Name                                                 | Preview                      | Notes |
