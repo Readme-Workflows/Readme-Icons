@@ -15,14 +15,14 @@ The icons are the 16px variant available but can be rescaled using the `<img>` H
 ## Issues
 Icons related to Issues
 
-| Name                                           | Preview                   | Notes                                            |
-| ---------------------------------------------- |:-------------------------:| ------------------------------------------------ |
-| [`IssueClosed.svg`][OcticonsIssueClosed]       | ![OcticonsIssueClosed]    | The new icon for closed issues (Not used yet).   |
-| [`IssueClosedOld.svg`][OcticonsIssueClosedOld] | ![OcticonsIssueClosedOld] |                                                  |
-| [`IssueDrafted.svg`][OcticonsIssueDrafted]     | ![OcticonsIssueDrafted]   | The new icon for drafted issues (Not used yet).  |
-| [`IssueOpened.svg`][OcticonsIssueOpened]       | ![OcticonsIssueOpened]    | The new icon for opened issues (Not used yet).   |
-| [`IssueOpenedOld.svg`][OcticonsIssueOpenedOld] | ![OcticonsIssueOpenedOld] |                                                  |
-| [`IssueReopened.svg`][OcticonsIssueReopened]   | ![OcticonsIssueReopened]  | The new icon for reopened issues (Not used yet). |
+| Name                                           | Preview                   | Notes                                     |
+| ---------------------------------------------- |:-------------------------:| ----------------------------------------- |
+| [`IssueClosed.svg`][OcticonsIssueClosed]       | ![OcticonsIssueClosed]    |                                           |
+| [`IssueClosedOld.svg`][OcticonsIssueClosedOld] | ![OcticonsIssueClosedOld] | The old icon used for closed issues.      |
+| [`IssueDrafted.svg`][OcticonsIssueDrafted]     | ![OcticonsIssueDrafted]   | Icon used for issue drafts (Not yet used) |
+| [`IssueOpened.svg`][OcticonsIssueOpened]       | ![OcticonsIssueOpened]    |                                           |
+| [`IssueOpenedOld.svg`][OcticonsIssueOpenedOld] | ![OcticonsIssueOpenedOld] | The old icon used for opened issues.      |
+| [`IssueReopened.svg`][OcticonsIssueReopened]   | ![OcticonsIssueReopened]  |                                           |
 
 [OcticonsIssueClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg
 [OcticonsIssueClosedOld]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosedOld.svg
@@ -34,14 +34,14 @@ Icons related to Issues
 ## Pull requests
 Icons related to Pull requests
 
-| Name                                                   | Preview                       | Notes                                                     |
-| ------------------------------------------------------ |:-----------------------------:| --------------------------------------------------------- |
-| [`ApprovedChanges.svg`][OcticonsApprovedChanges]       | ![OcticonsApprovedChanges]    |                                                           |
-| [`PullRequestClosed.svg`][OcticonsPullRequestClosed]   | ![OcticonsPullRequestClosed]  | The new icon for closed Pull requests (Not used yet).     |
-| [`PullRequestDrafted.svg`][OcticonsPullRequestDrafted] | ![OcticonsPullRequestDrafted] | The new icon for drafted Pull requests (Not used yet).    |
-| [`PullRequestMerged.svg`][OcticonsPullRequestMerged]   | ![OcticonsPullRequestMerged]  |                                                           |
-| [`PullRequestOpened.svg`][OcticonsPullRequestOpened]   | ![OcticonsPullRequestOpened]  |                                                           |
-| [`RequestedChanges.svg`][OcticonsRequestedChanges]     | ![OcticonsRequestedChanges]   |                                                           |
+| Name                                                   | Preview                       | Notes |
+| ------------------------------------------------------ |:-----------------------------:| ----- |
+| [`ApprovedChanges.svg`][OcticonsApprovedChanges]       | ![OcticonsApprovedChanges]    |       |
+| [`PullRequestClosed.svg`][OcticonsPullRequestClosed]   | ![OcticonsPullRequestClosed]  |       |
+| [`PullRequestDrafted.svg`][OcticonsPullRequestDrafted] | ![OcticonsPullRequestDrafted] |       |
+| [`PullRequestMerged.svg`][OcticonsPullRequestMerged]   | ![OcticonsPullRequestMerged]  |       |
+| [`PullRequestOpened.svg`][OcticonsPullRequestOpened]   | ![OcticonsPullRequestOpened]  |       |
+| [`RequestedChanges.svg`][OcticonsRequestedChanges]     | ![OcticonsRequestedChanges]   |       |
 
 [OcticonsApprovedChanges]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg
 [OcticonsPullRequestClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg
