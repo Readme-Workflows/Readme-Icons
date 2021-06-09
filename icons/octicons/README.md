@@ -15,14 +15,14 @@ The icons are the 16px variant available but can be rescaled using the `<img>` H
 ## Issues
 Icons related to Issues
 
-| Name                                           | Preview                   | Notes                                     |
-| ---------------------------------------------- |:-------------------------:| ----------------------------------------- |
-| [`IssueClosed.svg`][OcticonsIssueClosed]       | ![OcticonsIssueClosed]    |                                           |
-| [`IssueClosedOld.svg`][OcticonsIssueClosedOld] | ![OcticonsIssueClosedOld] | The old icon used for closed issues.      |
-| [`IssueDrafted.svg`][OcticonsIssueDrafted]     | ![OcticonsIssueDrafted]   | Icon used for issue drafts (Not yet used) |
-| [`IssueOpened.svg`][OcticonsIssueOpened]       | ![OcticonsIssueOpened]    |                                           |
-| [`IssueOpenedOld.svg`][OcticonsIssueOpenedOld] | ![OcticonsIssueOpenedOld] | The old icon used for opened issues.      |
-| [`IssueReopened.svg`][OcticonsIssueReopened]   | ![OcticonsIssueReopened]  |                                           |
+| Name                                           | Preview                   | Notes                                        |
+| ---------------------------------------------- |:-------------------------:| -------------------------------------------- |
+| [`IssueClosed.svg`][OcticonsIssueClosed]       | ![OcticonsIssueClosed]    |                                              |
+| [`IssueClosedOld.svg`][OcticonsIssueClosedOld] | ![OcticonsIssueClosedOld] | The old icon used for closed issues.         |
+| [`IssueDrafted.svg`][OcticonsIssueDrafted]     | ![OcticonsIssueDrafted]   | Icon used for issue drafts (Not yet used)    |
+| [`IssueOpened.svg`][OcticonsIssueOpened]       | ![OcticonsIssueOpened]    |                                              |
+| [`IssueOpenedOld.svg`][OcticonsIssueOpenedOld] | ![OcticonsIssueOpenedOld] | The old icon used for opened issues.         |
+| [`IssueReopened.svg`][OcticonsIssueReopened]   | ![OcticonsIssueReopened]  | Icon used for reopened issues (Not yet used) |
 
 [OcticonsIssueClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg
 [OcticonsIssueClosedOld]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosedOld.svg
