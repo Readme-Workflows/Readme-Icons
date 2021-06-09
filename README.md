@@ -48,7 +48,7 @@ There are multiple reasons to use this over the existing sources:
 1. **Recoloured SVGs**  
    There is no easy way to recolour existing SVG icons without manipulating their `<svg>` or `<path>` tags, especially with markdown-syntaxes.  
    Here, the icons have receieved new colours where needed to represent their common use place. This allows you to have coloured SVG icons without much work.
-2. **Single Source**
+2. **Single Source**  
    Thanks to this Repository will you only have a single source you need to use compared to other places. This reduces the need of maintainability a lot as you don't have to worry about the source suddenly changing or even being gone.  
 3. **Safe**  
    Using this Repository over the source is much more save, as we won't remove existing SVG icons without any prior notice.  
