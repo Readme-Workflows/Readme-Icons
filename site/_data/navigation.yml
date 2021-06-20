@@ -1,0 +1,19 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "FAQ"
+    url: /faq/
+  - title: "Icons"
+    url: /icons/
+  - title: "GitHub"
+    url: "https://github.com/Readme-Workflow/Readme-Icons"
+  - title: "Discord"
+    url: "https://discord.gg/2a9VC4AK6x"
+
+icons:
+  - title: "Icons"
+    children:
+      - title: "Octicons"
+        url: /icons/octicons/
+      - title: "Gifs"
+        url: /icons/gifs/
