@@ -3,6 +3,9 @@ permalink: /icons/gifs/
 
 title: "Gifs"
 excerpt: "Animated Gifs for your Readme."
+
+sidebar:
+  nav: icons
 ---
 
 [LicenseTwemoji]: https://github.com/twitter/twemoji/blob/master/LICENSE

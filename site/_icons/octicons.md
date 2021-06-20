@@ -3,6 +3,9 @@ permalink: /icons/octicons/
 
 title: "GitHub's Octicons"
 excerpt: "Official SVG icons from GitHub."
+
+sidebar:
+  nav: icons
 ---
 
 [LicenseOcticons]: https://github.com/primer/octicons/blob/main/LICENSE
