@@ -8,5 +8,5 @@ The Releases of this repository follow basic [Semantic Versioning][semver] with 
 The version format is `vMAJOR.MINOR.PATCH` and follows the following Update-rules:
 
 - **Major** is updated whenever a new set of icons is added to or an existing icon set is removed from the [`icons`][icons] folder.
-- **Minor** is updated whenever new icons are added to an existing icon set or existing ones are removed. This also includes the simple renaming of an icon.
+- **Minor** is updated whenever existing icons are replaced by a new icons set or existing ones are removed. This also includes the simple renaming of an icon.
 - **Patch** is updated for when an existing icon receives (visual) changes that don't affect the URL it is accessible through (i.e. no renaming).
