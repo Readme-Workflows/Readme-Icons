@@ -31,6 +31,11 @@ version-resolver:
       - "Version: Patch"
   default: patch
 
+auto-labeler:
+  - label: "Action: No Changelog"
+    title:
+      - "\[ImgBot] Optimize Images"
+
 template: |
   ## Icons Update
   $CHANGES
