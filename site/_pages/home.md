@@ -19,7 +19,7 @@ feature_row_1:
     title: "Octicons SVG"
     excerpt: "A collection of GitHub's official SVG icon set, recolored for your personal need."
     btn_label: "Octicons Icons Page"
-  - image_path: /assets/images/previews/gif.gif
+  - image_path: /assets/images/previews/gif.png
     alt: "gifs"
     title: "Gifs"
     excerpt: "Animated Gifs to bring life to your Readme file."
