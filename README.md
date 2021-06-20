@@ -1,7 +1,7 @@
 [andre601]: https://github.com/Andre601
 [discord]: https://discord.gg/2a9VC4AK6x
 [contributing]: https://github.com/Readme-Workflows/Readme-Icons/blob/main/CONTRIBUTING.md
-
+[policy]: https://github.com/Readme-Workflows/Readme-Icons/blob/main/VERSION_POLICY.md
 
 # Readme-Icons
 > Currated by [@Andre601][andre601]
@@ -36,6 +36,9 @@ This is useful if your icon got changed or even removed but you still want to us
 
 To use specific versions, replace `main` in `Readme-Icons@main` with the version you would like to use (i.e. `Readme-Icons@v1.0.0`).  
 Keep in mind that there needs to be a valid Release on this Repository for this to work!
+
+## Version Policy
+We have a [Version Policy][policy] to explain how we update the latest version.
 
 ## Licenses
 
