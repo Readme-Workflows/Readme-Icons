@@ -66,16 +66,16 @@ Each category has their own README file with the icons listed.
 ### Gifs
 Collection of 16x16 gifs you can use in your README.
 
-> [To the category][categoryGifs]
+> [To the page][categoryGifs]
 
-[categoryGifs]: https://github.com/Readme-Workflows/Readme-Icons/tree/main/icons/gifs#readme
+[categoryGifs]: https://readme-workflows.github.io/Readme-Icons/icons/gifs/
 
 ### Octicons
 GitHub's own Set of SVG icons.
 
-> [To the category][categoryOcticons]
+> [To the page][categoryOcticons]
 
-[categoryOcticons]: https://github.com/Readme-Workflows/Readme-Icons/tree/main/icons/octicons#readme
+[categoryOcticons]: https://readme-workflows.github.io/Readme-Icons/icons/octicons/
 
 ## Submit Icons
 

@@ -8,12 +8,12 @@ sidebar:
   nav: icons
 ---
 
-# Octicons
-GitHub's official SVG icons.
-
-[Octicons](octicons){: .btn .btn--primary }
-
 # Gifs
 Animated Gifs for your Readme.
 
 [Gifs](gifs){: .btn .btn--primary }
+
+# Octicons
+GitHub's official SVG icons.
+
+[Octicons](octicons){: .btn .btn--primary }

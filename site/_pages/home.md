@@ -14,18 +14,18 @@ header:
       url: "https://github.com/Readme-Workflows/Readme-Icons"
 
 feature_row_1:
-  - image_path: /assets/images/previews/octicons.png
-    alt: "octicons"
-    title: "Octicons SVG"
-    excerpt: "A collection of GitHub's official SVG icons, recoloured for your personal need."
-    btn_label: "Octicons Icons Page"
-    btn_class: "btn--light-outline"
-    url: /icons/octicons/
   - image_path: /assets/images/previews/gifs.gif
     alt: "gifs"
     title: "Gifs"
     excerpt: "Animated Gifs to bring life to your Readme file."
     btn_label: "Gifs Icons Page"
+    btn_class: "btn--light-outline"
+    url: /icons/octicons/
+  - image_path: /assets/images/previews/octicons.png
+    alt: "octicons"
+    title: "Octicons SVG"
+    excerpt: "A collection of GitHub's official SVG icons, recoloured for your personal need."
+    btn_label: "Octicons Icons Page"
     btn_class: "btn--light-outline"
     url: /icons/octicons/
   - image_path: /assets/images/previews/placeholder.png
