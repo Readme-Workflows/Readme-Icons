@@ -7,6 +7,23 @@ We use releases to allow you to use a specific instance of an icon in case it wa
 The Releases of this repository follow basic [Semantic Versioning][semver] with a few specific changes regarding what part of a version is receiving an update.  
 The version format is the basic semantic version format (`vMAJOR.MINOR.PATCH`) and follows the following Update-rules:
 
-- **Major** is updated whenever a new set of icons is added to or an existing icon set is removed from the [`icons`][icons] folder.
-- **Minor** is updated whenever existing icons are replaced by a new icons set or existing ones are removed. This also includes the simple renaming of an icon.
-- **Patch** is updated for when an existing icon receives (visual) changes that don't affect the URL it is accessible through (i.e. no renaming).
+### Major
+The `Major` version is updated in the following events:
+
+- New Set of Icons (New Category) added to the [`icons`][icons] folder.
+- Existing Icon Set removed from the [`icons`][icons] folder.
+- Existing Icon Set renamed.
+
+### Minor
+The `Minor` version is updated in the following events:
+
+- Existing Icon was replaced/updated. Does not include Colour changes (See [`Patch`](#patch)
+- Existing Icon was removed.
+- Existing Icon was renamed.
+
+### Patch
+`Patch` is updated in the following cases:
+
+- Colours of an Icon change
+- New Icons are added to an **existing** Icon Set.
+- Any other case not covered by [`Major`](#major) or [`Minor`](#minor) that doesn't affect the URL to a Icon or Icon Set.
