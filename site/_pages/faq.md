@@ -3,7 +3,7 @@ layout: splash
 permalink: /faq/
 
 title: "FAQ"
-excerpt: "Answers towards the most common questions people may have."
+excerpt: "Collection of commonly asked questions about Readme-Icons."
 
 toc: true
 
