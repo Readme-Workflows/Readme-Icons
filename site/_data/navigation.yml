@@ -13,7 +13,7 @@ main:
 icons:
   - title: "Icons"
     children:
-      - title: "Octicons"
-        url: /icons/octicons/
       - title: "Gifs"
         url: /icons/gifs/
+      - title: "Octicons"
+        url: /icons/octicons/
