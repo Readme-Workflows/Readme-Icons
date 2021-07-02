@@ -34,7 +34,7 @@ version-resolver:
 auto-labeler:
   - label: "Action: No Changelog"
     title:
-      - "\[ImgBot] Optimize Images"
+      - "\\[ImgBot] Optimize Images"
 
 template: |
   ## Icons Update
