@@ -26,7 +26,7 @@ We use the 16px variant of the icons and recoloured them to match their usual pl
 Icons related to Issues
 
 | Name                                   | Preview           | Notes                                         |
-| -------------------------------------- |:-------- --------:| --------------------------------------------- |
+| -------------------------------------- |:-----------------:| --------------------------------------------- |
 | [`IssueClosed.svg`][IssueClosed]       | ![IssueClosed]    |                                               |
 | [`IssueClosedOld.svg`][IssueClosedOld] | ![IssueClosedOld] | The old icon used for closed issues.          |
 | [`IssueDrafted.svg`][IssueDrafted]     | ![IssueDrafted]   | Icon used for issue drafts (Not yet used).    |
