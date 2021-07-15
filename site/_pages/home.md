@@ -34,6 +34,11 @@ feature_row_1:
     excerpt: "Do you know a set of icons that we should add? [Let us know!](https://discord.gg/2a9VC4AK6x)"
 ---
 
+> ## News
+> Looking for a more easy way to use Readme-Icons in your README?  
+> Try out [Readme-Replacer](https://github.com/Readme-Workflows/readme-replacer) a new GitHub Action made by [Readme-Workflows](https://github.com/Readme-Workflows)!
+{: notice--info }
+
 ## What is Readme-Icons?
 Readme-Icons is a collection of various image files (SVG, PNG, Gifs, etc.) which are designed to be used within your own Readme file.
 
