@@ -34,10 +34,15 @@ feature_row_1:
     excerpt: "Do you know a set of icons that we should add? [Let us know!](https://discord.gg/2a9VC4AK6x)"
 ---
 
-> ## News
-> Looking for a more easy way to use Readme-Icons in your README?  
-> Try out [Readme-Replacer](https://github.com/Readme-Workflows/readme-replacer) a new GitHub Action made by [Readme-Workflows](https://github.com/Readme-Workflows)!
-{: notice--info }
+{% capture news %}
+Looking for a more easy way to use Readme-Icons in your README file?  
+Try out [Readme-Replacer]((https://github.com/Readme-Workflows/readme-replacer) a GitHub Action created by [Readme-Workflows]((https://github.com/Readme-Workflows)!
+{% endcapture %}
+
+<div class="notice--success">
+  <h2 class="no_toc">News</h2>
+  {{ news | markdownify }}
+</div>
 
 ## What is Readme-Icons?
 Readme-Icons is a collection of various image files (SVG, PNG, Gifs, etc.) which are designed to be used within your own Readme file.
