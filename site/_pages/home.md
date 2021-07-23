@@ -40,7 +40,7 @@ Try out [Readme-Replacer](https://github.com/Readme-Workflows/readme-replacer) a
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">News</h4>
+  <h2 class="no_toc">News</h2>
   {{ readme-replacer | markdownify }}
 </div>
 
