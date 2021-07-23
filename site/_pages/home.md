@@ -36,7 +36,7 @@ feature_row_1:
 
 {% capture readme-replacer %}
 Looking for a more easy way to use Readme-Icons in your README file?  
-Try out [Readme-Replacer]((https://github.com/Readme-Workflows/readme-replacer) a GitHub Action created by [Readme-Workflows]((https://github.com/Readme-Workflows)!
+Try out [Readme-Replacer](https://github.com/Readme-Workflows/readme-replacer) a GitHub Action created by [Readme-Workflows](https://github.com/Readme-Workflows)!
 {% endcapture %}
 
 <div class="notice--success">
