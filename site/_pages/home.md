@@ -34,14 +34,14 @@ feature_row_1:
     excerpt: "Do you know a set of icons that we should add? [Let us know!](https://discord.gg/2a9VC4AK6x)"
 ---
 
-{% capture news %}
+{% capture readme-replacer %}
 Looking for a more easy way to use Readme-Icons in your README file?  
 Try out [Readme-Replacer]((https://github.com/Readme-Workflows/readme-replacer) a GitHub Action created by [Readme-Workflows]((https://github.com/Readme-Workflows)!
 {% endcapture %}
 
 <div class="notice--success">
-  <h2 class="no_toc">News</h2>
-  {{ news | markdownify }}
+  <h4 class="no_toc">News</h4>
+  {{ readme-replacer | markdownify }}
 </div>
 
 ## What is Readme-Icons?
