@@ -7,6 +7,8 @@ What type of Pull request is this?
   Icon: `_____` <!-- Replace with the name of the icon -->
 - [ ] **Small corrections**  
   Correcting typos, wrong licenses, file names, etc.
+- [ ]  **Other**
+  Any change that doesn't fit the above types.
 
 ## Description
 <!--
