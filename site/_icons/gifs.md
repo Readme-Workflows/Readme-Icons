@@ -23,8 +23,10 @@ Simple gifs you can use in your Readme. The icons are 16px in size.
 
 ## Emojis/Emoticons
 
-| Name                   | Preview     | Notes |
-| ---------------------- |:-----------:| ----- |
-| [`Wave.gif`][GifsWave] | ![GifsWave] |       |
+| Name                   | Placeholder[^1] | Preview     | Notes |
+| ---------------------- | --------------- |:-----------:| ----- |
+| [`Wave.gif`][GifsWave] | `{gifs/wave}`   | ![GifsWave] |       |
 
 [GifsWave]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif
+
+[^1]: These placeholders are for the [Readme-Replacer Action](https://github.com/Readme-Workflows/readme-replacer).
