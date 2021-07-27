@@ -25,15 +25,15 @@ We use the 16px variant of the icons and recoloured them to match their usual pl
 ## Issues
 Icons related to Issues
 
-| Name                                   | Preview           | Notes                                         |
-| -------------------------------------- |:-----------------:| --------------------------------------------- |
-| [`IssueClosed.svg`][IssueClosed]       | ![IssueClosed]    |                                               |
-| [`IssueClosedOld.svg`][IssueClosedOld] | ![IssueClosedOld] | The old icon used for closed issues.          |
-| [`IssueDrafted.svg`][IssueDrafted]     | ![IssueDrafted]   | Icon used for issue drafts (Not yet used).    |
-| [`IssueNeutral.svg`][IssueNeutral]     | ![IssueNeutral]   | Grey coloured issue icon.                     |
-| [`IssueOpened.svg`][IssueOpened]       | ![IssueOpened]    |                                               |
-| [`IssueOpenedOld.svg`][IssueOpenedOld] | ![IssueOpenedOld] | The old icon used for opened issues.          |
-| [`IssueReopened.svg`][IssueReopened]   | ![IssueReopened]  | Icon used for reopened issues (Not yet used). |
+| Name                                   | Placeholder[^1]             | Preview           | Notes                                         |
+| -------------------------------------- | --------------------------- |:-----------------:| --------------------------------------------- |
+| [`IssueClosed.svg`][IssueClosed]       | `{octicons/issueClosed}`    | ![IssueClosed]    |                                               |
+| [`IssueClosedOld.svg`][IssueClosedOld] | `{octicons/issueClosedOld}` | ![IssueClosedOld] | The old icon used for closed issues.          |
+| [`IssueDrafted.svg`][IssueDrafted]     | `{octicons/issueDrafted}`   | ![IssueDrafted]   | Icon used for issue drafts (Not yet used).    |
+| [`IssueNeutral.svg`][IssueNeutral]     | `{octicons/issueNeutral}`   | ![IssueNeutral]   | Grey coloured issue icon.                     |
+| [`IssueOpened.svg`][IssueOpened]       | `{octicons/issueOpened}`    | ![IssueOpened]    |                                               |
+| [`IssueOpenedOld.svg`][IssueOpenedOld] | `{octicons/issueOpenedOld}` | ![IssueOpenedOld] | The old icon used for opened issues.          |
+| [`IssueReopened.svg`][IssueReopened]   | `{octicons/issueReopened}`  | ![IssueReopened]  | Icon used for reopened issues (Not yet used). |
 
 [IssueClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg
 [IssueClosedOld]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosedOld.svg
@@ -46,15 +46,15 @@ Icons related to Issues
 ## Pull requests
 Icons related to Pull requests
 
-| Name                                           | Preview               | Notes                            |
-| ---------------------------------------------- |:---------------------:| -------------------------------- |
-| [`ApprovedChanges.svg`][ApprovedChanges]       | ![ApprovedChanges]    |                                  |
-| [`PullRequestClosed.svg`][PullRequestClosed]   | ![PullRequestClosed]  |                                  |
-| [`PullRequestDrafted.svg`][PullRequestDrafted] | ![PullRequestDrafted] |                                  |
-| [`PullRequestMerged.svg`][PullRequestMerged]   | ![PullRequestMerged]  |                                  |
-| [`PullRequestNeutral.svg`][PullRequestNeutral] | ![PullRequestNeutral] | Grey coloured Pull request icon. |
-| [`PullRequestOpened.svg`][PullRequestOpened]   | ![PullRequestOpened]  |                                  |
-| [`RequestedChanges.svg`][RequestedChanges]     | ![RequestedChanges]   |                                  |
+| Name                                           | Placeholder[^1]               | Preview               | Notes                            |
+| ---------------------------------------------- | ----------------------------- |:---------------------:| -------------------------------- |
+| [`ApprovedChanges.svg`][ApprovedChanges]       | `{octicons/approved}`         | ![ApprovedChanges]    |                                  |
+| [`PullRequestClosed.svg`][PullRequestClosed]   | `{octicons/prClosed}`         | ![PullRequestClosed]  |                                  |
+| [`PullRequestDrafted.svg`][PullRequestDrafted] | `{octicons/prDrafted}`        | ![PullRequestDrafted] |                                  |
+| [`PullRequestMerged.svg`][PullRequestMerged]   | `{octicons/prMerged}`         | ![PullRequestMerged]  |                                  |
+| [`PullRequestNeutral.svg`][PullRequestNeutral] | `{octicons/prNeutral}`        | ![PullRequestNeutral] | Grey coloured Pull request icon. |
+| [`PullRequestOpened.svg`][PullRequestOpened]   | `{octicons/prOpened}`         | ![PullRequestOpened]  |                                  |
+| [`RequestedChanges.svg`][RequestedChanges]     | `{octicons/requestedChanges}` | ![RequestedChanges]   |                                  |
 
 [ApprovedChanges]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg
 [PullRequestClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg
@@ -67,19 +67,19 @@ Icons related to Pull requests
 ## Miscellaneous
 Icons not matching any other category
 
-| Name                                         | Preview              | Notes |
-| -------------------------------------------- |:--------------------:| ----- |
-| [`Comment.svg`][Comment]                     | ![Comment]           |       |
-| [`Discussions.svg`][Discussions]             | ![Discussions]       |       |
-| [`ForkedRepository.svg`][ForkedRepository]   | ![ForkedRepository]  |       |
-| [`People.svg`][People]                       | ![People]            |       |
-| [`License.svg`][License]                     | ![License]           |       |
-| [`Release.svg`][Release]                     | ![Release]           |       |
-| [`Repository.svg`][Repository]               | ![Repository]        |       |
-| [`StarredRepository.svg`][StarredRepository] | ![StarredRepository] |       |
-| [`UnwatchRepository.svg`][UnwatchRepository] | ![UnwatchRepository] |       |
-| [`WatchRepository.svg`][WatchRepository]     | ![WatchRepository]   |       |
-| [`Wiki.svg`][Wiki]                           | ![Wiki]              |       |
+| Name                                         | Placeholder[^1]           | Preview              | Notes |
+| -------------------------------------------- | ------------------------- |:--------------------:| ----- |
+| [`Comment.svg`][Comment]                     | `{octicons/comment}`      | ![Comment]           |       |
+| [`Discussions.svg`][Discussions]             | `{octicons/discussions}`  | ![Discussions]       |       |
+| [`ForkedRepository.svg`][ForkedRepository]   | `{octicons/forkedRepo}`   | ![ForkedRepository]  |       |
+| [`People.svg`][People]                       | `{octicons/people}`       | ![People]            |       |
+| [`License.svg`][License]                     | `{octicons/license}`      | ![License]           |       |
+| [`Release.svg`][Release]                     | `{octicons/release}`      | ![Release]           |       |
+| [`Repository.svg`][Repository]               | `{octicons/repo}`         | ![Repository]        |       |
+| [`StarredRepository.svg`][StarredRepository] | `{octicons/star}`         | ![StarredRepository] |       |
+| [`UnwatchRepository.svg`][UnwatchRepository] | `{octicons/unwatchRepo}`  | ![UnwatchRepository] |       |
+| [`WatchRepository.svg`][WatchRepository]     | `{octicons/watchRepo}`    | ![WatchRepository]   |       |
+| [`Wiki.svg`][Wiki]                           | `{octicons/wiki}`         | ![Wiki]              |       |
 
 [Comment]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg
 [Discussions]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Discussions.svg
@@ -92,3 +92,6 @@ Icons not matching any other category
 [UnwatchRepository]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/UnwatchRepository.svg
 [WatchRepository]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/WatchRepository.svg
 [Wiki]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg
+
+
+[^1]: These placeholders are for the [Readme-Replacer Action](https://github.com/Readme-Workflows/readme-replacer).
