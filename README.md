@@ -9,7 +9,9 @@
 [![CDN hits](https://data.jsdelivr.com/v1/package/gh/Readme-Workflows/Readme-Icons/badge)](https://www.jsdelivr.com/package/gh/Readme-Workflows/Readme-Icons)
 
 Welcome to the Readme-Icons Repository!  
-This Repository aims to provide various SVG icons to use in your Readme, or any other markdown file.
+This Repository aims to provide various SVG icons and images to use in your Readme, or any other markdown file.
+
+The icons are in 16x16 scale perfect for normal text sizes of GitHub.
 
 ## Table of Contents
 
