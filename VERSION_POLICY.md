@@ -17,7 +17,7 @@ The `Major` version is updated in the following events:
 ### Minor
 The `Minor` version is updated in the following events:
 
-- Existing Icon was replaced/updated. Does not include Colour changes (See [`Patch`](#patch)
+- Existing Icon was replaced/updated. Does not include Colour changes (See [`Patch`](#patch))
 - Existing Icon was removed.
 - Existing Icon was renamed.
 
