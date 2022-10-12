@@ -46,17 +46,19 @@ Icons related to Issues
 ## Pull requests
 Icons related to Pull requests
 
-| Name                                           | Placeholder[^1]               | Preview               | Notes                            |
-| ---------------------------------------------- | ----------------------------- |:---------------------:| -------------------------------- |
-| [`ApprovedChanges.svg`][ApprovedChanges]       | `{octicons/approved}`         | ![ApprovedChanges]    |                                  |
-| [`PullRequestClosed.svg`][PullRequestClosed]   | `{octicons/prClosed}`         | ![PullRequestClosed]  |                                  |
-| [`PullRequestDrafted.svg`][PullRequestDrafted] | `{octicons/prDrafted}`        | ![PullRequestDrafted] |                                  |
-| [`PullRequestMerged.svg`][PullRequestMerged]   | `{octicons/prMerged}`         | ![PullRequestMerged]  |                                  |
-| [`PullRequestNeutral.svg`][PullRequestNeutral] | `{octicons/prNeutral}`        | ![PullRequestNeutral] | Grey coloured Pull request icon. |
-| [`PullRequestOpened.svg`][PullRequestOpened]   | `{octicons/prOpened}`         | ![PullRequestOpened]  |                                  |
-| [`RequestedChanges.svg`][RequestedChanges]     | `{octicons/requestedChanges}` | ![RequestedChanges]   |                                  |
+| Name                                             | Placeholder[^1]               | Preview                | Notes                                            |
+| ------------------------------------------------ | ----------------------------- |:----------------------:| ------------------------------------------------ |
+| [`ApprovedChanges.svg`][ApprovedChanges]         | `{octicons/approved}`         | ![ApprovedChanges]     |                                                  |
+| [`ApprovedChangesGrey.svg`][ApprovedChangesGrey] |                               | ![ApprovedChangesGrey] | Approved Changes icon for non-required reviewers |
+| [`PullRequestClosed.svg`][PullRequestClosed]     | `{octicons/prClosed}`         | ![PullRequestClosed]   |                                                  |
+| [`PullRequestDrafted.svg`][PullRequestDrafted]   | `{octicons/prDrafted}`        | ![PullRequestDrafted]  |                                                  |
+| [`PullRequestMerged.svg`][PullRequestMerged]     | `{octicons/prMerged}`         | ![PullRequestMerged]   |                                                  |
+| [`PullRequestNeutral.svg`][PullRequestNeutral]   | `{octicons/prNeutral}`        | ![PullRequestNeutral]  | Grey coloured Pull request icon.                 |
+| [`PullRequestOpened.svg`][PullRequestOpened]     | `{octicons/prOpened}`         | ![PullRequestOpened]   |                                                  |
+| [`RequestedChanges.svg`][RequestedChanges]       | `{octicons/requestedChanges}` | ![RequestedChanges]    |                                                  |
 
 [ApprovedChanges]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg
+[ApprovedChangesGrey]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg
 [PullRequestClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg
 [PullRequestDrafted]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestDrafted.svg
 [PullRequestMerged]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg
