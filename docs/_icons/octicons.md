@@ -58,7 +58,7 @@ Icons related to Pull requests
 | [`RequestedChanges.svg`][RequestedChanges]       | `{octicons/requestedChanges}` | ![RequestedChanges]    |                                                  |
 
 [ApprovedChanges]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg
-[ApprovedChangesGrey]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg
+[ApprovedChangesGrey]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChangesGrey.svg
 [PullRequestClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg
 [PullRequestDrafted]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestDrafted.svg
 [PullRequestMerged]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg
