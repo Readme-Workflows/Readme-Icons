@@ -69,19 +69,20 @@ Icons related to Pull requests
 ## Miscellaneous
 Icons not matching any other category
 
-| Name                                         | Placeholder[^1]           | Preview              | Notes |
-| -------------------------------------------- | ------------------------- |:--------------------:| ----- |
-| [`Comment.svg`][Comment]                     | `{octicons/comment}`      | ![Comment]           |       |
-| [`Discussions.svg`][Discussions]             | `{octicons/discussions}`  | ![Discussions]       |       |
-| [`ForkedRepository.svg`][ForkedRepository]   | `{octicons/forkedRepo}`   | ![ForkedRepository]  |       |
-| [`People.svg`][People]                       | `{octicons/people}`       | ![People]            |       |
-| [`License.svg`][License]                     | `{octicons/license}`      | ![License]           |       |
-| [`Release.svg`][Release]                     | `{octicons/release}`      | ![Release]           |       |
-| [`Repository.svg`][Repository]               | `{octicons/repo}`         | ![Repository]        |       |
-| [`StarredRepository.svg`][StarredRepository] | `{octicons/star}`         | ![StarredRepository] |       |
-| [`UnwatchRepository.svg`][UnwatchRepository] | `{octicons/unwatchRepo}`  | ![UnwatchRepository] |       |
-| [`WatchRepository.svg`][WatchRepository]     | `{octicons/watchRepo}`    | ![WatchRepository]   |       |
-| [`Wiki.svg`][Wiki]                           | `{octicons/wiki}`         | ![Wiki]              |       |
+| Name                                                     | Placeholder[^1]           | Preview                    | Notes                                            |
+| -------------------------------------------------------- | ------------------------- |:--------------------------:| ------------------------------------------------ |
+| [`Comment.svg`][Comment]                                 | `{octicons/comment}`      | ![Comment]                 |                                                  |
+| [`Discussions.svg`][Discussions]                         | `{octicons/discussions}`  | ![Discussions]             |                                                  |
+| [`ForkedRepository.svg`][ForkedRepository]               | `{octicons/forkedRepo}`   | ![ForkedRepository]        |                                                  |
+| [`People.svg`][People]                                   | `{octicons/people}`       | ![People]                  |                                                  |
+| [`License.svg`][License]                                 | `{octicons/license}`      | ![License]                 |                                                  |
+| [`Release.svg`][Release]                                 | `{octicons/release}`      | ![Release]                 |                                                  |
+| [`Repository.svg`][Repository]                           | `{octicons/repo}`         | ![Repository]              |                                                  |
+| [`StarredRepository.svg`][StarredRepository]             | `{octicons/star}`         | ![StarredRepository]       |                                                  |
+| [`StarredRepositoryYellow.svg`][StarredRepositoryYellow] |                           | ![StarredRepositoryYellow] | Yellow variant displayed on the "Starred" button |
+| [`UnwatchRepository.svg`][UnwatchRepository]             | `{octicons/unwatchRepo}`  | ![UnwatchRepository]       |                                                  |
+| [`WatchRepository.svg`][WatchRepository]                 | `{octicons/watchRepo}`    | ![WatchRepository]         |                                                  |
+| [`Wiki.svg`][Wiki]                                       | `{octicons/wiki}`         | ![Wiki]                    |                                                  |
 
 [Comment]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg
 [Discussions]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Discussions.svg
@@ -91,6 +92,7 @@ Icons not matching any other category
 [Release]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg
 [Repository]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg
 [StarredRepository]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg
+[StarredRepositoryYellow]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg
 [UnwatchRepository]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/UnwatchRepository.svg
 [WatchRepository]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/WatchRepository.svg
 [Wiki]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg
