@@ -20,7 +20,7 @@ feature_row_1:
     excerpt: "Animated Gifs to bring life to your Readme file."
     btn_label: "Gifs Icons Page"
     btn_class: "btn--light-outline"
-    url: /icons/octicons/
+    url: /icons/gifs/
   - image_path: /assets/images/previews/octicons.png
     alt: "octicons"
     title: "Octicons SVG"
